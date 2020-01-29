@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> ein Blog </title>
+    </head>
+    <body>
+
+        <div class="header">        <!-- HEADER START -->
+            <h1></h1>               <!-- HAUPTÜBERSCHRIFT Ihr Blog für einen erfolgreichen Garten -->
+            <img src="" alt="">     <!-- Logo-->
+            <ul>    <!-- navigation 5 elemente-->
+                <li><a href="">Item 1</a></li>
+                <li><a href="">Item 2</a></li>
+                <li><a href="">Item 3</a></li>
+                <li><a href="">Item 4</a></li>
+                <li><a href="">Item 5</a></li>
+            </ul>
+
+            <ul>    <!-- login etc navigation-->
+                <li><a href="">Item 1</a></li>
+                <li><a href="">Item 2</a></li>
+            </ul>
+
+        </div>                      <!-- HEADER END -->
+
+        <div class="content">
+            <article>
+                <div>
+                    <img src="" alt="">
+                    <div>
+                        <p></p>
+                        <h3><a href=""></a></h3>
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div>
+                    <img src="" alt="">
+                    <div>
+                        <p></p>
+                        <h3><a href=""></a></h3>
+                    </div>
+                </div>
+            </article>
+
+            <article>
+                <div>
+                    <img src="" alt="">
+                    <div>
+                        <p></p>
+                        <h3><a href=""></a></h3>
+                    </div>
+                </div>
+            </article>
+        </div>
+
+        <div class="footer">...</div>
+
+    </body>
+</html>
